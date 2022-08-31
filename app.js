@@ -48,16 +48,16 @@ function result()
         }
 
     var node = document.getElementById('result');
-        
+
 	if(score > 14) {
-        document.getElementById("result").innerHTML = "Schämen Sie sich Sie Umweltsau!!"; 
+        document.getElementById("result").innerHTML = "Wir helfen Ihnen gerne Umweltfreundlicher zu arbeiten."; 
 	}
 	if(score < 13) {
-		document.getElementById("result").innerHTML = "Das geht noch besser!";
+		document.getElementById("result").innerHTML = "Da ist noch Luft nach Oben!";
 	}
 	if(score < 6) {
-		document.getElementById("result").innerHTML = "Krass das ist gut!!";
-	}
+		document.getElementById("result").innerHTML = "Das ist äußerst Lobenswert!";
+	} 
 //  document.write("Your score is:"+score);
  // to print on browser
  // document.write("Your score is:"+score);

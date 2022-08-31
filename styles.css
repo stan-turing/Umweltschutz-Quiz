@@ -13,11 +13,11 @@ body {
 }
 
 #btn {
-    background: rgb(15, 170, 232);
+    background: rgb(26, 190, 255);
     border-radius: 20px;
     text-align: center;
     padding: 15px;
-    height: 30px;
+    height: 25px;
     width: 90px;
     color: #333;
     font-size: 18px;
@@ -29,4 +29,5 @@ body {
 #ergebnis {
     text-align: center;
     margin: 20px;
+    font-size: 25px;
 }
